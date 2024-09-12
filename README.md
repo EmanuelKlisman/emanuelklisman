@@ -16,10 +16,6 @@
 
 ###
 
-<h2 align="left">Skills 🚀</h2>
-
-###
-
 <p align="center">Thanks for Visiting! 😇</p>
 
 ###
