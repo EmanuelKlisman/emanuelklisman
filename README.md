@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋! Eu sou Emanuel Klisman ... e eu sou ..., do Brasil.</h1>
+<h1 align="left">Hi 👋! hELLO EVERYONE , I AM KLISMAN !</h1>
 
 ###
 
@@ -50,9 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/rug19/rug19/main/output/github-user-contribution.svg" />
 
 ###
 
