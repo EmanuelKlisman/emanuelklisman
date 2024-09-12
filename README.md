@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">"Hello! I'm Ruan Gomes, a programming enthusiast diving into the world of software development. Currently, I'm pursuing my degree in Analysis and Systems Development. I'm passionate about learning and honing my skills as a programmer. I thrive on tackling new challenges and am eager to contribute to exciting projects. Open to collaboration opportunities and looking forward to making meaningful contributions!"</p>
+<p align="left">" HI ,ME CHAMO EMANUEL KLISMAN, ESTOU CURSANDO ANALISE EM DESENVOLVIMENTO MA SOU AMANTE DA AREA DA INFRAESTRUTURA  E CONFIGURACOES DE SWICTH . AQUI POSTO ALGUMAS BESTERINHAS PARA REGISTRAR !"</p>
 
 ###
 
