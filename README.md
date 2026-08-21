@@ -3,7 +3,7 @@
 
 *Desenvolvedor Web*
 
-Me chamo Emanuel Kliman, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no escola estadual profissionalizante Maria José Medeiros, com o curso técnico em redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou um amante por tecnologia e compartilho meu conhecimento através do meu Linekdin [https://www.youtube.com/@larissakich](https://www.linkedin.com/in/emanuel-klisman-nascimento-nogueira-27281a235/))", onde divulgo projetos pessoais.
+Me chamo Emanuel Kliman, tenho 20 anos e sou natural do Ceará. Concluí o ensino médio no escola estadual profissionalizante Maria José Medeiros, com o curso técnico em redes de computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou um amante por tecnologia e compartilho meu conhecimento através do meu Linekdin onde divulgo projetos pessoais.
 
  <a href="https://github.com/EmanuelKlisman?tab=repositories&sort=stargazers">
         <img 
